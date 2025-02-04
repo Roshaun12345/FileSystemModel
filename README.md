@@ -2,6 +2,7 @@ This project simulates a basic file system that allows users to interact with fi
 
 Features
 Create: Add new files and folders to the file system.
+
 List: Display all files and folders in the current directory.
 Change Directory (cd): Navigate between directories.
 Print Working Directory (PWD): Display the current directory path.
