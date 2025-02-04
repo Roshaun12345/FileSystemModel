@@ -1,0 +1,1 @@
+This project simulates a basic file system that allows users to interact with files and directories through the command line. It enables users to create files, list directories, view file contents, remove files and folders, and navigate between directories.
